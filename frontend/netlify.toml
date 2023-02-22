@@ -1,2 +1,4 @@
 [build]
-base = "frontend"
+  base = "/"
+  publish = "/"
+  command = ""
